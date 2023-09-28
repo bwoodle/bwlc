@@ -4,7 +4,7 @@ public class Program
 {
     static void Main(string[] _)
     {
-        var test = new RomanToIntSolution();
+        var test = new AddTwoNumbersSolution();
         test.Test();
     }
 }
