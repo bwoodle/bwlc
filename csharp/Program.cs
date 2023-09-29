@@ -1,10 +1,11 @@
 ﻿using System;
+using LCConsoleApp._880.DecodedStringAtIndex;
 
 public class Program
 {
     static void Main(string[] _)
     {
-        var test = new AddTwoNumbersSolution();
+        var test = new DecodedStringAtIndex();
         test.Test();
     }
 }
