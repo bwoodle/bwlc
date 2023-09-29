@@ -5,7 +5,7 @@ public class Program
 {
     static void Main(string[] _)
     {
-        var test = new DecodedStringAtIndex();
+        var test = new LongestSubstringSolution();
         test.Test();
     }
 }
