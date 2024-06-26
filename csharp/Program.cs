@@ -2,7 +2,7 @@
 {
     static void Main(string[] _)
     {
-        var test = new MergeTwoSortedListsSolution();
+        var test = new MergeTwoSortedListsSolutionTwo();
         test.Test();
     }
 }

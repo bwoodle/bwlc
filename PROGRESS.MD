@@ -7,3 +7,9 @@
   - June 26, 2024
   - 0 Incorrect submissions
   - 21 minutes (including a lot of setup)
+
+* Problem 21 (easy) Solution #2
+  - June 26, 2024
+  - 0 Incorrect submissions
+  - Not timed
+  - Beats 58.89% runtime, 77.99% memory
