@@ -2,7 +2,7 @@
 {
     static void Main(string[] _)
     {
-        var test = new LongestCommonPrefixSolution();
+        var test = new MergeTwoSortedListsSolution();
         test.Test();
     }
 }
