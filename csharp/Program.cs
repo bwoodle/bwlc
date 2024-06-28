@@ -2,7 +2,7 @@
 {
     static void Main(string[] _)
     {
-        var test = new MergeSortedArray();
+        var test = new RemoveDupes();
         test.Test();
     }
 }

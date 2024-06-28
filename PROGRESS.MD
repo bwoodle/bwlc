@@ -23,3 +23,9 @@
   - 0 incorrect submissions
   - ~5 minute solution
   - Beats 63.92% runtime, 71.84% memory
+
+* Problem 26 (easy)
+  - June 28, 2024
+  - 0 errors or incorrect submissions
+  - 10 minute solution
+  - Beats 33.01% runtime, 83.76% memory
