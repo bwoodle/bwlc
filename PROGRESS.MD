@@ -29,3 +29,9 @@
   - 0 errors or incorrect submissions
   - 10 minute solution
   - Beats 33.01% runtime, 83.76% memory
+
+* Problem 80 (Medium) - modified from solution to #26
+  - June 28, 2024
+  - 0 errors or incorrect submissions
+  - 5 minute solution
+  - Beats 85.65% runtime, 94.54% memory

@@ -2,7 +2,7 @@
 {
     static void Main(string[] _)
     {
-        var test = new RemoveDupes();
+        var test = new RemoveDupesSortedTwo();
         test.Test();
     }
 }
