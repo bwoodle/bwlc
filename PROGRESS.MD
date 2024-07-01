@@ -35,3 +35,5 @@
   - 0 errors or incorrect submissions
   - 5 minute solution
   - Beats 85.65% runtime, 94.54% memory
+
+* Problem 2347 (Easy) Best poker hand
