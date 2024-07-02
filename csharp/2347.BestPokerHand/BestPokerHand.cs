@@ -17,6 +17,40 @@ internal class BestPokerHand
         // "Pair"
         // "High Card"
 
-        return "";
+        var flush = true;
+        for (int i = 1; i < 5; i++)
+        {
+            if (suits[i] != suits[0])
+            {
+                flush = false;
+                break;
+            }
+        }
+        if (flush)
+        {
+            return "Flush";
+        }
+
+        var hash = new HashSet<int>();
+        var hash2 = new HashSet<int>();
+        for (int i = 0; i < 5; i++)
+        {
+            if (hash.Contains(ranks[i]))
+            {
+                if (hash2.Contains(ranks[i]))
+                {
+                    return "Three of a Kind";
+                }
+                else
+                {
+                    hash2.Add(ranks[i]);
+                }
+            }
+            else
+            {
+                hash.Add(ranks[i]);
+            }
+        }
+        return hash2.Any() ? "Pair" : "High Card";
     }
 }

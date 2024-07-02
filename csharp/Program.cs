@@ -2,7 +2,7 @@
 {
     static void Main(string[] _)
     {
-        var test = new RemoveDupesSortedTwo();
+        var test = new BestPokerHand();
         test.Test();
     }
 }
