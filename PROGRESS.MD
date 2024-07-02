@@ -37,3 +37,7 @@
   - Beats 85.65% runtime, 94.54% memory
 
 * Problem 2347 (Easy) Best poker hand
+  - July 2, 2024
+  - 0 errors or incorrect submissions
+  - 9 minute solution
+  - Beats 17.19% runtime, 64.06% memory
