@@ -41,3 +41,12 @@
   - 0 errors or incorrect submissions
   - 9 minute solution
   - Beats 17.19% runtime, 64.06% memory
+
+* Problem 48 (Medium) Rotate Image
+  - July 2, 2024
+  - Spent 30 minutes thrashing on the trick before reading comments
+  - Once I realized that matrix algebra provided the solution, it was simple enough to transpose and vertically mirror the matrix to obtain the result
+  - 0 errors or incorrect submissions
+  - ~10 minute programming solution, after failing to come up with the linear algebra solution on my own
+  - Beats 14.07% runtime, 27.62% memory
+  - Removing functions, beats 56.73% runtime, 87.16% memory. Lesson learned, don't use functions

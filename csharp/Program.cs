@@ -2,7 +2,7 @@
 {
     static void Main(string[] _)
     {
-        var test = new BestPokerHand();
+        var test = new RotateImage();
         test.Test();
     }
 }
