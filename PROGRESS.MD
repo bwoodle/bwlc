@@ -50,3 +50,25 @@
   - ~10 minute programming solution, after failing to come up with the linear algebra solution on my own
   - Beats 14.07% runtime, 27.62% memory
   - Removing functions, beats 56.73% runtime, 87.16% memory. Lesson learned, don't use functions
+
+* Problem 49 (Medium) Group Anagrams
+  - July 3, 2024
+  - Spent 9 minutes without coming up with an algorithm. Took a break to think while running
+  - July 4, 2024
+  - 30 minute programming to come up with a working, brute force solution.
+  - NOT ACCEPTED due to exceeding the time limit
+  - In retrospect, my solution was crunching far too many anagrams, when I only needed to compare 1:1
+  - July 5, 2024
+  - No need to brute force. I just need to see if the next input is an anagram of the first element in an existing List
+  - 14 minute programming to come up with a working solution
+  - NOT ACCEPTED due to exceeding the time limit
+  - 14 more minutes ACCEPTED
+  - Runtime beats 5%, Memory beats 5%... ouch
+  - Better solutions store a sorted string for comparison, rather than just the first instance of the anagram encountered
+
+# Guide for solving future problems
+# Look for signs to identify the class of problem:
+#   Recursion, Linear algebra, linked list, tree
+# Identify data structures that will help
+#   Dictionary/HashSet (const insertion/lookup), Queue, Stack, List
+# Identify any data pre-processing which may help (sorting, etc)

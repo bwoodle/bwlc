@@ -1,8 +1,9 @@
-﻿public class Program
+﻿
+public class Program
 {
     static void Main(string[] _)
     {
-        var test = new RotateImage();
+        var test = new GroupAnagramsSolution();
         test.Test();
     }
 }
