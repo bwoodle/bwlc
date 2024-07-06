@@ -18,7 +18,9 @@ public class BinarySortSolution
     // Haven't thought about this problem in depth for 16 years, but let me walk through it
     // I'm most worried about getting off-by-one errors or index out of bounds reading past the end of the array
     // For an array with 4 elements, we want to start with indices (0, 3), then have inner calls for (0, 1) and (2, 3)
-    // For an array with 5 elements, (0, 4), (0, 2) 
+    // For an array with 5 elements, (0, 4) -> (0, 1), (2, 4) -> (0, 1), (2, 2), (3, 4)
+    // For an array with 1 element, (0, 0)
+    // For an array with 2 elements, (0, 1) -> (0, 0), (1, 1)
     private void Sort(int[] arr, int beginIndex, int endIndex)
     {
         if (endIndex - beginIndex <= 1)
