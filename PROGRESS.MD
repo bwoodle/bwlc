@@ -72,9 +72,18 @@
 # Identify data structures that will help
 #   Dictionary/HashSet (const insertion/lookup), Queue, Stack, List
 # Identify any data pre-processing which may help (sorting, etc)
+# Write out edge test cases ahead of time (beginning, end, empty, etc)
+# Use a whiteboard for notes, not pen+paper
 
 * Problem 53 (Medium) Max subarray
   - July 5, 2024
   - 27 minute programming to come up with a working solution
   - NOT ACCEPTED due to exceeding the time limit
-  
+  - Will return later
+
+* Problem 28 (Easy) First Occurrence in a string
+  - July 6, 2024
+  - 9 minutes to create a one-pass solution that was incomplete/incorrect
+  - Break for a long run
+  - 10 minutes and a couple of edge case failures to create a second one-pass solution
+  - Beats 96.52% time, 37.98% memory (I could optimize the storage - using lists)
