@@ -68,7 +68,13 @@
 
 # Guide for solving future problems
 # Look for signs to identify the class of problem:
-#   Recursion, Linear algebra, linked list, tree
+#   Recursion, Linear algebra, linked list, search tree
 # Identify data structures that will help
 #   Dictionary/HashSet (const insertion/lookup), Queue, Stack, List
 # Identify any data pre-processing which may help (sorting, etc)
+
+* Problem 53 (Medium) Max subarray
+  - July 5, 2024
+  - 27 minute programming to come up with a working solution
+  - NOT ACCEPTED due to exceeding the time limit
+  
