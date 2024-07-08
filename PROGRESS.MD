@@ -93,3 +93,10 @@
   - 3 minute solution
   - Beats 65.23% runtime, 42.86% memory
   - Easiest problem encountered so far, just a fizzbang
+
+* Problem 3 (Medium) Longest substring without repeating characters
+  - July 8, 2024
+  - I apparently had issues with this solution in 2022 and wanted to give it a second try
+  - 15 minute solution
+  - One logical error (resetting length for char outside of current substr)
+  - Beats 96.16% runtime, 39.41% memory
