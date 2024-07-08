@@ -87,3 +87,9 @@
   - Break for a long run
   - 10 minutes and a couple of edge case failures to create a second one-pass solution
   - Beats 96.52% time, 37.98% memory (I could optimize the storage - using lists)
+
+* Problem 1550 (Easy) Three consecutive odds
+  - July 8, 2024
+  - 3 minute solution
+  - Beats 65.23% runtime, 42.86% memory
+  - Easiest problem encountered so far, just a fizzbang
