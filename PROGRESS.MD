@@ -107,4 +107,10 @@
   - One very small/dumb edge case missed (1 < s.Length < numRows caused Index out of range)
   - Beats 77.21% runtime, 90.94% memory
 
-* 
+* Problem 1652 (Easy) Defuse the bomb
+  - July 9, 2024
+  - I apparently had issues with this solution in 2022 and wanted to give it a second try
+  - ~30 minute solution
+  - Lots of thrashing, NEEDED the whiteboard for this one using basic arithmetic
+  - Not an easy problem, probably medium
+  - Beats 46.63% runtime, 94.64% memory
