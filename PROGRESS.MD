@@ -100,3 +100,11 @@
   - 15 minute solution
   - One logical error (resetting length for char outside of current substr)
   - Beats 96.16% runtime, 39.41% memory
+
+* Problem 6 (Medium) Zigzag Conversion
+  - July 9, 2024
+  - ~18 minute solution
+  - One very small/dumb edge case missed (1 < s.Length < numRows caused Index out of range)
+  - Beats 77.21% runtime, 90.94% memory
+
+* 
