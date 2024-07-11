@@ -114,3 +114,9 @@
   - Lots of thrashing, NEEDED the whiteboard for this one using basic arithmetic
   - Not an easy problem, probably medium
   - Beats 46.63% runtime, 94.64% memory
+
+* Problem 994 (Medium) Rotting Oranges
+  - July 10, 2024
+  - A few off-by-one type mistakes along the way cleared up with the debugger
+  - ~20-30 minute solution - untimed at dinner
+  - Beats 85.01% runtime, 75.71% memory
