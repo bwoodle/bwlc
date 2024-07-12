@@ -120,3 +120,8 @@
   - A few off-by-one type mistakes along the way cleared up with the debugger
   - ~20-30 minute solution - untimed at dinner
   - Beats 85.01% runtime, 75.71% memory
+
+* problem 215 (Medium) Kth Largest Element
+  - July 11, 2024
+  - First solution (n^2) exceeded time limit
+  - Need to come back with a quicksort / quickselect solution. Burned out thinking about this problem.
