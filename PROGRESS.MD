@@ -124,4 +124,10 @@
 * problem 215 (Medium) Kth Largest Element
   - July 11, 2024
   - First solution (n^2) exceeded time limit
-  - Need to come back with a quicksort / quickselect solution. Burned out thinking about this problem.
+  - Need to come back with a quicksort / quickselect solution. Burned out thinking about this problem today.
+  - Jult 13, 2024
+  - After thinking about it for 2 days, I'm going to create 2 solutions:
+    - QuickSelect algorithm with random pivot (O(n^2) but average n time complexity)
+    - PriorityQueue O(n*logk)
+  - PriorityQueue solution was quick and easy (15 minutes)
+    - Accepted beats 72.35% runtime, 93.84% memory
