@@ -66,15 +66,6 @@
   - Runtime beats 5%, Memory beats 5%... ouch
   - Better solutions store a sorted string for comparison, rather than just the first instance of the anagram encountered
 
-# Guide for solving future problems
-# Look for signs to identify the class of problem:
-#   Recursion, Linear algebra, linked list, search tree
-# Identify data structures that will help
-#   Dictionary/HashSet (const insertion/lookup), Queue, Stack, List
-# Identify any data pre-processing which may help (sorting, etc)
-# Write out edge test cases ahead of time (beginning, end, empty, etc)
-# Use a whiteboard for notes, not pen+paper
-
 * Problem 53 (Medium) Max subarray
   - July 5, 2024
   - 27 minute programming to come up with a working solution
@@ -131,3 +122,6 @@
     - PriorityQueue O(n*logk)
   - PriorityQueue solution was quick and easy (15 minutes)
     - Accepted beats 72.35% runtime, 93.84% memory
+  - July 14, 2024
+  - QuickSelect algorithm with end pivot done in ~15 minutes, couple mins more for random pivot
+  - Beats 5.16% runtime, 54.14% memory
