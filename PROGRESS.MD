@@ -125,3 +125,14 @@
   - July 14, 2024
   - QuickSelect algorithm with end pivot done in ~15 minutes, couple mins more for random pivot
   - Beats 5.16% runtime, 54.14% memory
+
+* Problem 871 (Hard) Minimum number of refueling stops
+  - July 15, 2024
+  - I spent ~2 hours trying to solve this as a graph problem using SSSP, but that was the wrong approach
+  - I subsequently created a working solution that stored too many (N^2) values in the heap (out of memory)
+  - After reading (aka cheating) a bit, I now know one of the better algorithms to solve this problem:
+    - Go as far as you can at any given time
+    - Remember the gas stations that you passed
+    - If you don't have enough fuel to make it to your destination, add the largest fuel capacity that you have passed
+  - New solution written in 10 minutes, accepted on first try
+  - 68.42% runtime, 21.05% memory (non-optimized)
