@@ -70,7 +70,7 @@
   - July 5, 2024
   - 27 minute programming to come up with a working solution
   - NOT ACCEPTED due to exceeding the time limit
-  - Will return later
+  - Will return later (Update: Done July 15, 2024)
 
 * Problem 28 (Easy) First Occurrence in a string
   - July 6, 2024
@@ -143,3 +143,10 @@
   - Runtime beats 42.52%, memory beats 18.90%
   - Iterative solution in ~5 minutes with Stack
   - Runtime beats 65.35%, memory beats 74.02%
+
+* Problem 53 (Medium) Max subarray
+  - July 15, 2024
+  - Tried this problem 10 days ago and gave up with an O(n^2) solution that exceeded time limit
+  - I read the O(n) solution at that time, but have not practiced it or thought about it for 10 days
+  - No issue whatsoever cranking out the default solution in ~10 minutes
+  - Beats 87.51% runtime, 36.61% memory
