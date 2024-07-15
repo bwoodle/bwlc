@@ -136,3 +136,10 @@
     - If you don't have enough fuel to make it to your destination, add the largest fuel capacity that you have passed
   - New solution written in 10 minutes, accepted on first try
   - 68.42% runtime, 21.05% memory (non-optimized)
+
+* Problem 589 (Easy) N-ary Tree Preorder Traversal
+  - July 15, 2024
+  - Solved recursively in ~5 minutes
+  - Runtime beats 42.52%, memory beats 18.90%
+  - Iterative solution in ~5 minutes with Stack
+  - Runtime beats 65.35%, memory beats 74.02%
