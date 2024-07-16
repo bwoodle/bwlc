@@ -150,3 +150,11 @@
   - I read the O(n) solution at that time, but have not practiced it or thought about it for 10 days
   - No issue whatsoever cranking out the default solution in ~10 minutes
   - Beats 87.51% runtime, 36.61% memory
+
+* Problem 141 (Easy) Linked List Cycle
+  - July 15, 2024
+  - Quick (5 minute) Dictionary solution accepted
+  - Beats 25.22% runtime, 5.04% memory
+  - Gonna have to optimize this one...
+  - Read about Tortoise and Hare algorithm. Keeping it in my toolbox, but not going to spend time writing the solution out
+
