@@ -163,4 +163,7 @@
   - Quick 5 minute stack solution
   - Under 50% ruintime/memory because algorithm could have terminated earlier
 
-
+* Problem 703 (Easy) Kth largest element in a stream
+  - Tried to go too fast so I missed some edge cases
+  - 5 minute solution, 2 edge cases missed (5 extra minutes to resolve)
+  - Beats 97.67% runtime, 87.50% memory

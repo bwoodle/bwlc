@@ -3,7 +3,7 @@ public class Program
 {
     static void Main(string[] _)
     {
-        var test = new ValidParens();
+        var test = new KthLargestAdd();
         test.Test();
     }
 }

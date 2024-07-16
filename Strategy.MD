@@ -8,7 +8,7 @@
   - Graph
 - Think about data structures
   - Dictionary/HashSet (const insertion/lookup)
-  - PriorityQueue
+  - PriorityQueue (minheap is a - b, maxheap is b - a)
   - Queue, Stack, List
 - Think about algorithms
   - Tortoise and hare
