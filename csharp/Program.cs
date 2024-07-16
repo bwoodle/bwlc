@@ -3,7 +3,7 @@ public class Program
 {
     static void Main(string[] _)
     {
-        var test = new MaxSubArraySolution2();
+        var test = new ValidParens();
         test.Test();
     }
 }

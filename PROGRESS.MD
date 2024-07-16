@@ -158,3 +158,9 @@
   - Gonna have to optimize this one...
   - Read about Tortoise and Hare algorithm. Keeping it in my toolbox, but not going to spend time writing the solution out
 
+* Problem 20 (Easy) Valid Parens
+  - Just getting reps, this is very easy
+  - Quick 5 minute stack solution
+  - Under 50% ruintime/memory because algorithm could have terminated earlier
+
+
