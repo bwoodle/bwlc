@@ -169,4 +169,6 @@
   - Beats 97.67% runtime, 87.50% memory
 
 * Problem 665 (Medium) Non-decreasing array
-  -
+  - Missed several edge cases on a hard-ish single pass solution
+  - Beats 97.14% runtime, 40% memory
+  - I should probably start off on some of these algorithms with a worse time-complexity, but 100% working solution
