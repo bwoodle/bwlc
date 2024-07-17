@@ -167,3 +167,6 @@
   - Tried to go too fast so I missed some edge cases
   - 5 minute solution, 2 edge cases missed (5 extra minutes to resolve)
   - Beats 97.67% runtime, 87.50% memory
+
+* Problem 665 (Medium) Non-decreasing array
+  -
