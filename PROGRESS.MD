@@ -159,21 +159,31 @@
   - Read about Tortoise and Hare algorithm. Keeping it in my toolbox, but not going to spend time writing the solution out
 
 * Problem 20 (Easy) Valid Parens
+  - July 16, 2024
   - Just getting reps, this is very easy
   - Quick 5 minute stack solution
   - Under 50% ruintime/memory because algorithm could have terminated earlier
 
 * Problem 703 (Easy) Kth largest element in a stream
+  - July 16, 2024
   - Tried to go too fast so I missed some edge cases
   - 5 minute solution, 2 edge cases missed (5 extra minutes to resolve)
   - Beats 97.67% runtime, 87.50% memory
 
 * Problem 665 (Medium) Non-decreasing array
+  - July 16, 2024
   - Missed several edge cases on a hard-ish single pass solution
   - Beats 97.14% runtime, 40% memory
   - I should probably start off on some of these algorithms with a worse time-complexity, but 100% working solution
 
 * Problem 155 (Medium) Min Stack
+  - July 17, 2024
   - First pass - solved in 10-15 minutes catching all edge cases
   - Beats 57.43% runtime, 6.25% memory
   - The memory evaluation isn't fair. The problem states all operations should be completed in O(1), so I allocated enough memory to not need to grow the stack on Push
+
+* Problem 669 (Medium)
+  - July 17, 2024
+  - First pass - solved in 15 minutes catching all edge cases
+  - Beats 92.73% runtime, 9.09% memory
+  - There's almost no variation in solutions
