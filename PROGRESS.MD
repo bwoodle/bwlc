@@ -182,8 +182,14 @@
   - Beats 57.43% runtime, 6.25% memory
   - The memory evaluation isn't fair. The problem states all operations should be completed in O(1), so I allocated enough memory to not need to grow the stack on Push
 
-* Problem 669 (Medium)
+* Problem 669 (Medium) Trim Binary Search Tree
   - July 17, 2024
   - First pass - solved in 15 minutes catching all edge cases
   - Beats 92.73% runtime, 9.09% memory
   - There's almost no variation in solutions
+
+* Problem 160 (Easy) Find intersection of linked list
+  - July 18, 2024
+  - First pass - 7-8 minutes, no errors
+  - Beats 54.95% runtime, 6.42% memory
+  - Might follow up with challenge to solve with O(1) memory... not sure on that solution right now

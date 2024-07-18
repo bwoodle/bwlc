@@ -3,7 +3,7 @@ public class Program
 {
     static void Main(string[] _)
     {
-        var test = new MinStackTester();
+        var test = new IntersectionOfLinkedLists();
         test.Test();
     }
 }
