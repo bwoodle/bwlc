@@ -201,3 +201,9 @@
   - 30 minute sloppy solution, beats 30.27% runtime, 13.41% memory.
   - There's clearly something I'm missing, in terms of an algorithm for factors of 100, 1000, 10000, etc
   - I started with the obvious (4*5 = 20, 10*x = x0), but when it gets to 625*614! being divisible by 10000 I don't see the trick
+
+* Problem 674 (Easy) Longest continuous increasing subsequence
+  - July 19, 2024
+  - Bruised ego after the last one. Here to regain some confidence.
+  - Quick solution ~5-10 mins, no errors
+  - Optimized a couple of times. Can either beat 85%+ on runtime or memory, but not both. Checking in runtime optimized
