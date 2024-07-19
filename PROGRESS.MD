@@ -192,4 +192,6 @@
   - July 18, 2024
   - First pass - 7-8 minutes, no errors
   - Beats 54.95% runtime, 6.42% memory
-  - Might follow up with challenge to solve with O(1) memory... not sure on that solution right now
+  - Might follow up with challenge to solve with O(n) runtime O(1) memory... not sure on that solution right now
+  - Read a hint: Count the number of nodes in each list first, then align the two pointers on distance from end
+  - I could write this solution quickly, but no reason to. On to the next one...
