@@ -195,3 +195,9 @@
   - Might follow up with challenge to solve with O(n) runtime O(1) memory... not sure on that solution right now
   - Read a hint: Count the number of nodes in each list first, then align the two pointers on distance from end
   - I could write this solution quickly, but no reason to. On to the next one...
+
+* Problem 172 (Medium) Factorial Trailing Zeroes
+  - July 19, 2024
+  - 30 minute sloppy solution, beats 30.27% runtime, 13.41% memory.
+  - There's clearly something I'm missing, in terms of an algorithm for factors of 100, 1000, 10000, etc
+  - I started with the obvious (4*5 = 20, 10*x = x0), but when it gets to 625*614! being divisible by 10000 I don't see the trick
